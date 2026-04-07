@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+**/seth-data.csv
+**/train.csv
+**/embeddings.tar.gz
